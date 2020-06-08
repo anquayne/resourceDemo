@@ -9,7 +9,11 @@
   ],
   "resource" : [
     {"organizationId" : 1, "campusId" : 1, "resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
-    {"organizationId" : 1, "campusId" : 1, "resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
+    {"organizationId" : 1, "campusId" : 1, "resourceId" : 2, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+    {"organizationId" : 1, "campusId" : 1, "resourceId" : 3, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+    {"organizationId" : 1, "campusId" : 2, "resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+    {"organizationId" : 2, "campusId" : 1, "resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+    {"organizationId" : 2, "campusId" : 1, "resourceId" : 2, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
   ],
 
   "campus": [
