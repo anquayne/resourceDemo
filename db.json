@@ -9,20 +9,28 @@
   ],
   "campus": [
     { "organizationId": 1, "id": 1, "campusName": "campus1", "campusResource": [
-      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "resourceLink"},
-      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "resourceLink"}
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
     ] },
     { "organizationId": 1, "id": 2, "campusName": "campus2", "campusResource": [
-      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "resourceLink"},
-      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "resourceLink"}
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
     ] },
     { "organizationId": 1, "id": 3, "campusName": "campus3", "campusResource": [
-      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "resourceLink"},
-      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "resourceLink"}
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
     ] },
     { "organizationId": 2, "id": 1, "campusName": "campus1", "campusResource": [
-      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "resourceLink"},
-      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "resourceLink"}
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
+    ] },
+    { "organizationId": 2, "id": 2, "campusName": "campus2", "campusResource": [
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
+    ] },
+    { "organizationId": 2, "id": 3, "campusName": "campus3", "campusResource": [
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
     ] }
   ],
   "profile": { "name": "typicode" }
