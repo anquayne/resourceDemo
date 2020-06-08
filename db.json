@@ -32,6 +32,5 @@
       {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"},
       {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"}
     ] }
-  ],
-  "profile": { "name": "typicode" }
+  ]
 }
