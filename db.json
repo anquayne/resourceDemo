@@ -1,9 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "organization": [
+    { "id": 1, "name": "Organization1"},
+    {"id": 2, "name" : "Organization2"},
+    {"id": 3, "name" : "Organization3"},
+    {"id": 4, "name" : "Organization4"},
+    {"id": 5, "name" : "Organization5"},
+    {"id": 6, "name" : "Organization6"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "campus": [
+    { "organizationId": 1, "id": 1, "campusName": "campus1", "campusResource": [
+      {"resourceId" : 1, "resourceName" : "resource1", "resourceLink" : "resourceLink"},
+      {"resourceId" : 2, "resourceName" : "resource2", "resourceLink" : "resourceLink"}
+    ] }
   ],
   "profile": { "name": "typicode" }
 }
