@@ -31,7 +31,7 @@
     {
     "id" : "7762",
     "resourceName": "CampusMap3",
-    "mimeType": "application/word",
+    "mimeType": "application/msword",
     "checksum": "ffab0080",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
