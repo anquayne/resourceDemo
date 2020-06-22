@@ -14,7 +14,7 @@
   "resource" : [
         {
     "id" : "7760",
-    "resourceName": "CampusMap",
+    "resourceName": "CampusMap_1",
     "mimeType": "application/pdf",
     "checksum": "ffab0080",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
@@ -22,7 +22,7 @@
   },
     {
     "id" : "7761",
-    "resourceName": "CampusMap",
+    "resourceName": "CampusMap2",
     "mimeType": "text/plain",
     "checksum": "ffab0080",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
