@@ -19,6 +19,14 @@
     "checksum": "ffab0080",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
+  },
+    {
+    "id" : "7760",
+    "resourceName": "CampusMap",
+    "mimeType": "text/plain",
+    "checksum": "ffab0080",
+    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "updateTimestamp": "1591370120973"
   }
   ],
 
