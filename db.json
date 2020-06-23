@@ -66,7 +66,7 @@
     "id" : "7760",
     "resourceName": "CampusMap_1",
     "mimeType": "application/pdf",
-    "checksum": "ffab0080",
+    "md5Checksum": "ffab0081",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   },
@@ -74,7 +74,7 @@
     "id" : "7761",
     "resourceName": "CampusMap2",
     "mimeType": "text/plain",
-    "checksum": "ffab0080",
+    "md5Checksum": "ffab0082",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   },
@@ -82,7 +82,33 @@
     "id" : "7762",
     "resourceName": "CampusMap3",
     "mimeType": "application/msword",
-    "checksum": "ffab0080",
+    "md5Checksum": "ffab0083",
+    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "updateTimestamp": "1591370120973"
+  },
+    {
+    "id" : "7763",
+    "resourceName": "CampusMap4",
+    "mimeType": "application/msword",
+    "md5Checksum": "ffab0084",
+    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "updateTimestamp": "1591370120973"
+  }
+    ,
+    {
+    "id" : "7764",
+    "resourceName": "CampusMap5",
+    "mimeType": "application/pdf",
+    "md5Checksum": "ffab0089",
+    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "updateTimestamp": "1591370120973"
+  }
+    ,
+    {
+    "id" : "7765",
+    "resourceName": "CampusMap6",
+    "mimeType": "text/html",
+    "md5Checksum": "ffab0086",
     "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   }
