@@ -4,61 +4,6 @@
     "id": "2347",
     "name": "org1",
     "nickName": "org1"
-  },
-  {
-    "id": "2348",
-    "name": "org2",
-    "nickName": "org2"
-  },
-    {
-    "id": "2349",
-    "name": "org3",
-    "nickName": "org2"
-  },
-    {
-    "id": "2350",
-    "name": "org4",
-    "nickName": "org2"
-  },
-    {
-    "id": "2351",
-    "name": "org5",
-    "nickName": "org2"
-  },
-    {
-    "id": "2352",
-    "name": "org6",
-    "nickName": "org2"
-  },
-    {
-    "id": "2353",
-    "name": "org7",
-    "nickName": "org2"
-  },
-    {
-    "id": "2354",
-    "name": "org8",
-    "nickName": "org2"
-  },
-    {
-    "id": "2355",
-    "name": "org9",
-    "nickName": "org2"
-  },
-    {
-    "id": "2356",
-    "name": "org10",
-    "nickName": "org2"
-  },
-    {
-    "id": "2357",
-    "name": "org11",
-    "nickName": "org2"
-  },
-    {
-    "id": "2358",
-    "name": "org12",
-    "nickName": "org2"
   }
   ],
   "resource" : [
@@ -120,7 +65,176 @@
     "id": "7760",
     "name": "Campus 1",
     "nickName": "Camp1"
+  },
+      {
+    "organizationId" : "2347",
+    "id": "7761",
+    "name": "Campus 2",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7762",
+    "name": "Campus 3",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2349",
+    "id": "7763",
+    "name": "Campus 4",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7764",
+    "name": "Campus 5",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7765",
+    "name": "Campus 6",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2348",
+    "id": "7766",
+    "name": "Org-2-Campus 2",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2348",
+    "id": "7767",
+    "name": "Org2-Campus 2",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7768",
+    "name": "Campus 7",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7769",
+    "name": "Campus 8",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7770",
+    "name": "Campus 9",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7771",
+    "name": "Campus 10",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7772",
+    "name": "Campus 11",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7773",
+    "name": "Campus 12",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7774",
+    "name": "Campus 13",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7775",
+    "name": "Campus 14",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7776",
+    "name": "Campus 15",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7777",
+    "name": "Campus 16",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7778",
+    "name": "Campus 17",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7779",
+    "name": "Campus 18",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7780",
+    "name": "Campus 19",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7781",
+    "name": "Campus 20",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7782",
+    "name": "Campus 21",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7783",
+    "name": "Campus 22",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7784",
+    "name": "Campus 23",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7785",
+    "name": "Campus 24",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7786",
+    "name": "Campus 25",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7787",
+    "name": "Campus 26",
+    "nickName": "Camp2"
+  },
+  {
+    "organizationId" : "2347",
+    "id": "7788",
+    "name": "Campus 27",
+    "nickName": "Camp2"
   }
+
     ]
  
 }
