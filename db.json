@@ -16,7 +16,7 @@
     "resourceName": "CampusMap_1",
     "mimeType": "application/pdf",
     "md5Checksum": "ffab006666",
-    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "url": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   },
     {
@@ -24,7 +24,7 @@
     "resourceName": "CampusMap2",
     "mimeType": "text/plain",
     "md5Checksum": "ffab0082",
-    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "url": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   },
     {
@@ -40,7 +40,7 @@
     "resourceName": "CampusMap4",
     "mimeType": "application/msword",
     "md5Checksum": "ffab0084",
-    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "url": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   }
     ,
@@ -49,7 +49,7 @@
     "resourceName": "CampusMap5",
     "mimeType": "application/pdf",
     "md5Checksum": "ffab0089",
-    "documentUrl": "http://localhost:22080/artifact/campusDocument/23",
+    "url": "http://localhost:22080/artifact/campusDocument/23",
     "updateTimestamp": "1591370120973"
   }
     ,
@@ -58,7 +58,7 @@
     "resourceName": "CampusMap6",
     "mimeType": "text/html",
     "md5Checksum": "ffab0086",
-    "documentUrl": "http://wallacefund.info",
+    "url": "http://wallacefund.info",
     "updateTimestamp": "1591370120973"
   }
   ],
